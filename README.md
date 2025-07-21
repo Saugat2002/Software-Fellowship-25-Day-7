@@ -12,3 +12,6 @@ Steps to run:
 - To run the streamlit app using the already pretrained models, `streamlit run streamlit.py`
 - Notebook has the required code to follow along, run, train and save the models.
 
+- Data is stored in `https://drive.google.com/drive/u/4/folders/10g1xbqBpBFwFVFQWMpjVzaX8tSa-JA_t`
+
+
